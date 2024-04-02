@@ -1,0 +1,104 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-image: url("images/H_N08607.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+
+}
+
+.navbar ul{
+    list-style-type:none ;
+    background-color: rgba(255, 255, 255, 0.699);
+    padding: 0px;
+    padding-left: 500px;
+    margin-left: 0px;
+    box-shadow: 3px 3px 3px rgb(161, 154, 154);
+    overflow: hidden;
+}
+
+.navbar a{
+    color: rgb(126, 93, 55);
+    text-decoration : none;
+    font-family:'Courier New', Courier, monospace ;
+    font-weight: bolder;
+    font-size: 20px;
+    padding : 15px;
+    display : block;
+    text-align :center;
+}
+.navbar a:hover{
+    background-color: rgba(151, 99, 36, 0.644);
+}
+.navbar li{
+    float:left;
+}
+main{
+    margin: 50px;
+}
+.box{
+    margin-top: 70px;;
+    padding-top: 2px;
+    border-radius:30px ;
+    box-shadow: 4px 4px 4px rgb(104, 98, 98);
+    width: 400px;
+    height: 400px;
+    margin-left: 400px;
+    background-color: rgba(186, 214, 212, 0.308);
+}
+
+.box2{
+    margin: 0px;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+
+    color: rgba(68, 50, 32, 0.753);
+    
+}
+
+.text
+{
+    font-size: 20px;
+    text-align: center;
+    color: rgba(37, 25, 15, 0.753);
+}
+.box2{
+    color: rgba(48, 40, 40, 0.87);
+}
+.text1{
+    text-align: center;
+    font-size: 23px;
+    color: rgba(59, 20, 20, 0.904);
+
+}
+.clicklink {
+    color: rgba(228, 220, 222, 0.685);
+    text-decoration : none;
+    font-family:'Courier New', Courier;
+    font-weight: bolder;
+    font-size: 19px;
+    padding : 15px;
+    display : block;
+    text-align :center;
+}
+.box3{
+    border-radius: 50px;
+    margin:120px;
+    margin-top:50px;
+    width: 150px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.438);
+}
+.vidd
+{
+    margin-left: 20px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    width: 1300px;
+    height: 600px;
+}
